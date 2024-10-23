@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/textmodifier-React/static/css/main.1cdbf67e.css",
-    "main.js": "/textmodifier-React/static/js/main.c5836112.js",
-    "static/js/453.f867386c.chunk.js": "/textmodifier-React/static/js/453.f867386c.chunk.js",
-    "index.html": "/textmodifier-React/index.html",
-    "main.1cdbf67e.css.map": "/textmodifier-React/static/css/main.1cdbf67e.css.map",
-    "main.c5836112.js.map": "/textmodifier-React/static/js/main.c5836112.js.map",
-    "453.f867386c.chunk.js.map": "/textmodifier-React/static/js/453.f867386c.chunk.js.map"
+    "main.css": "/Megha-cell/textmodifier/static/css/main.1cdbf67e.css",
+    "main.js": "/Megha-cell/textmodifier/static/js/main.c379e4c1.js",
+    "static/js/453.f867386c.chunk.js": "/Megha-cell/textmodifier/static/js/453.f867386c.chunk.js",
+    "index.html": "/Megha-cell/textmodifier/index.html",
+    "main.1cdbf67e.css.map": "/Megha-cell/textmodifier/static/css/main.1cdbf67e.css.map",
+    "main.c379e4c1.js.map": "/Megha-cell/textmodifier/static/js/main.c379e4c1.js.map",
+    "453.f867386c.chunk.js.map": "/Megha-cell/textmodifier/static/js/453.f867386c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1cdbf67e.css",
-    "static/js/main.c5836112.js"
+    "static/js/main.c379e4c1.js"
   ]
 }
